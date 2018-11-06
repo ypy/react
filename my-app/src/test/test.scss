@@ -1,0 +1,17 @@
+.Header{
+  height: 2.5rem;
+  background-color: #123678;
+  text-align: left;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  color: white;
+
+  .App-title{
+    padding-left: 1rem;
+  }
+
+  .header-tool{
+    float:right;
+    padding-right: 1rem;
+  }
+}
