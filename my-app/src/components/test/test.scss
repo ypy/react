@@ -10,8 +10,11 @@
     padding-left: 1rem;
   }
 
-  .header-tool{
+  .header-tools{
     float:right;
     padding-right: 1rem;
+    .material-icons{
+      vertical-align: middle;
+    }
   }
 }
